@@ -1,2 +1,2 @@
 # Webpack
-Webpack configuration for large scale Enterprise projects
+Webpack configuration for large scale Enterprise projects template
